@@ -8,4 +8,3 @@ let period = 6;
 console.log('heloo world');
 
 alert(money);
-
